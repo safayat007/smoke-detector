@@ -11,7 +11,7 @@ The outputs of the sensor changes accordingly to the smoke/gas level that exists
 * Resistors (220 ohms)
 * Jumper Wires
 # Schematics : 
-![Schematics](Smoke detector.jpg)
+![Schematics](Smoke_detector.jpg)
 # Code : 
 [Code Link](Smoke_detector.ino)
 # Application : 
